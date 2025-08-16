@@ -1,12 +1,23 @@
-# React + Vite
+# Talha Premium Doors & Hardware
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce website built with React, Vite, and Tailwind CSS, showcasing premium doors and hardware. Features product browsing, category filtering, a contact form, and a streamlined cart system. Explore high-quality craftsmanship for your home or office!
 
-Currently, two official plugins are available:
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/my-finalecommerce.git`
+2. Navigate to the project: `cd my-finalecommerce`
+3. Install dependencies: `npm install`
+4. Run the development server: `npm run dev`
+5. Open `http://localhost:5173` in your browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design with Tailwind CSS
+- Product filtering by category
+- Simple cart system
+- Contact form with simulated submission
+- Custom logo and branding
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies
+- React 18.3.1
+- React Router 6.26.1
+- Tailwind CSS 4.1.12
+- Vite 5.4.8
