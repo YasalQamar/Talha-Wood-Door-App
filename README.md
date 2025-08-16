@@ -1,4 +1,4 @@
-# Talha Premium Doors & Hardware
+# Talha Wood Doors & Hardware App
 
 A responsive e-commerce website built with React, Vite, and Tailwind CSS, showcasing premium doors and hardware. Features product browsing, category filtering, a contact form, and a streamlined cart system. Explore high-quality craftsmanship for your home or office!
 
